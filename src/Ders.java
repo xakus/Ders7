@@ -6,7 +6,6 @@ public class Ders {
                 System.out.println(i+"|  i="+i+"                |");
         }
         System.out.println("-|--------------------------|");
-
     }
 }
 
